@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FozynS/Tic-Tac-Toe.git/static/css/main.97feb5a9.css",
+    "main.js": "/FozynS/Tic-Tac-Toe.git/static/js/main.aa75aa36.js",
+    "index.html": "/FozynS/Tic-Tac-Toe.git/index.html",
+    "main.97feb5a9.css.map": "/FozynS/Tic-Tac-Toe.git/static/css/main.97feb5a9.css.map",
+    "main.aa75aa36.js.map": "/FozynS/Tic-Tac-Toe.git/static/js/main.aa75aa36.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97feb5a9.css",
+    "static/js/main.aa75aa36.js"
+  ]
+}
