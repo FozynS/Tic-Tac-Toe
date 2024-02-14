@@ -5,8 +5,11 @@ Simple browser-based Tic-Tac-Toe game implemented using React.
 Features:
 
 ·Two-player gameplay.
+
 ·Automatic winner and draw detection.
+
 ·Win counter for each player.
+
 ·Option to start a new game after a win or draw.
 
 Advantages of the Project:
