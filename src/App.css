@@ -145,22 +145,3 @@
   margin-top: 20px;
   font-size: 20px;
 }
-
-.winner {
-  z-index: -1;
-  top: 210px;
-  position: absolute;
-  border: 2px solid greenyellow;
-  background-color: palevioletred;
-  width: 400px;
-  height: 250px;
-  color: #fff;
-  font-size: 32px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-}
-.winner.active{
-  z-index: 0;
-}
