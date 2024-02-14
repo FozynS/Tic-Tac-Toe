@@ -15,7 +15,7 @@ code {
 
 #root {
   display: flex;
-  height: 52em;
+  height: 54em;
   justify-content: center;
   align-items: center;
 }
